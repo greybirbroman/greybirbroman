@@ -5,9 +5,7 @@
 + Люблю бег :snail: и плавание :whale:
 + :postbox: Пишите мне на rfedorov.work@gmail.com
 
-### Find me on
-[![Telegram](https://img.shields.io/badge/telegram-F5F5F5?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/romfedorov)
-![linkedin](https://img.shields.io/badge/linkedin-F5F5F5?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)
+### Find me on <a href="https://t.me/romfedorov" target="blank"><img align="center" src="https://img.shields.io/badge/telegram-F5F5F5?style=for-the-badge&logo=telegram&logoColor=#0A66C2" alt="" width="100" /></a> <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" alt="" width="100" /></a>
 
 ### My Stack
 ![html](https://img.shields.io/badge/html-F5F5F5?style=for-the-badge&logo=html5&logoColor=#E34F26)
