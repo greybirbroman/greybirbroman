@@ -1,11 +1,10 @@
-## Привет, меня зовут Роман :wave:
-___
+# Привет, меня зовут Роман :wave:
 
 + :crystal_ball: **MERN** stack
 + :bell: Фанат удобных и продуманных пользовательских интерфейсов
 + Люблю бег :snail: и плавание :whale:
 + Написать мне <a href="https://t.me/romfedorov" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/telegram.png" alt="" width="30" /></a> <a href="#" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/linkedin.png" alt="" width="30" /></a> <a href="mailto:rfedorov.work@gmail.com" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/gmail.png" alt="" width="30" /></a>
-___
+
 
 ### My Stack
 ![html](https://img.shields.io/badge/html-F5F5F5?style=for-the-badge&logo=html5&logoColor=#E34F26)
