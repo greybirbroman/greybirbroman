@@ -3,8 +3,7 @@
 + :crystal_ball: **MERN** стек
 + :bell: Фанат удобных и продуманных пользовательских интерфейсов
 + Люблю бег :snail: и плавание :whale:
-+ :postbox: Пишите мне на rfedorov.work@gmail.com
-+ Ищите на <a href="https://t.me/romfedorov" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/telegram.png" alt="" width="30" /></a> <a href="#" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/linkedin.png" alt="" width="30" /></a>
++ Пишите мне <a href="https://t.me/romfedorov" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/telegram.png" alt="" width="30" /></a> <a href="#" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/linkedin.png" alt="" width="30" /></a> <a href="rfedorov.work@gmail.com" target="_blank"><img align="center" src="https://github.com/greybirbroman/greybirbroman/blob/main/images/gmail.png" alt="" width="30" /></a>
 
 ### My Stack
 ![html](https://img.shields.io/badge/html-F5F5F5?style=for-the-badge&logo=html5&logoColor=#E34F26)
