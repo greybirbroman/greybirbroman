@@ -4,7 +4,7 @@
 
 ## Follow Me
 
-[<img src="https://img.shields.io/badge/telegram-F5F5F5?style=for-the-badge&logo=telegram&logoColor=#26A5E4 target=_blank"/>](https://t.me/romfedorov)
+[<img src="https://img.shields.io/badge/telegram-F5F5F5?style=for-the-badge&logo=telegram&logoColor=#26A5E4" target="_blank"/>](https://t.me/romfedorov)
 
 ![greybirbroman's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybirbroman&theme=swift&show_icons=true&hide=stars,contribs)
 
