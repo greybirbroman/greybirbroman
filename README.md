@@ -16,7 +16,6 @@
 ![framermotion](https://img.shields.io/badge/Framer_Motion-F5F5F5?style=for-the-badge&logo=framer&logoColor=0055ff)
 ![node](https://img.shields.io/badge/Node.js-F5F5F5?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![mongodb](https://img.shields.io/badge/mongodb-F5F5F5?style=for-the-badge&logo=mongodb&logoColor=#47A248)
-![express](https://img.shields.io/badge/express-F5F5F5?style=for-the-badge&logo=&logoColor=#000000)
 ![git](https://img.shields.io/badge/git-F5F5F5?style=for-the-badge&logo=Git&logoColor=#F05032)
 ___
 
