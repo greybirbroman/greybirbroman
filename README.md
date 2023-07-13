@@ -19,8 +19,6 @@
 ![git](https://img.shields.io/badge/git-F5F5F5?style=for-the-badge&logo=Git&logoColor=#F05032)
 ___
 
-
-![greybirbroman's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybirbroman&theme=swift&show_icons=true&hide=stars,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybirbroman&theme=swift&layout=compact)](https://github.com/greybirbroman/github-readme-stats)
 
 
